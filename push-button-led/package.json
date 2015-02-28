@@ -1,0 +1,11 @@
+{
+  "name": "onofftest",
+  "version": "0.1.0",
+  "description": "demonstrates node controlling two GPIO powering LED & pushbutton",
+  "main": "index.js",
+  "author": "Andrew Connell <me@andrewconnell.com>",
+  "license": "ISC",
+  "dependencies": {
+    "onoff": "^1.0.2"
+  }
+}
